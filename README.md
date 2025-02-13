@@ -74,7 +74,7 @@
     <a href="#monman">Món mặn<a>
     <a href="#banhngot">Món ngọt<a>
     
-    <a href="#contact">Liên Hệ</a>
+    
 </nav>
 
 <div class="content" id="monman">
